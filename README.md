@@ -17,7 +17,7 @@ This is the Pytorch implementation of GEGCN proposed in our paper:
 ## Usage
 
 ```
-python main.py
+python train_and_test.py
 ```
 
   * --device: gpu number or 'cpu'.
