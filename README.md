@@ -30,7 +30,7 @@ python main.py
   * --weight_decay: weight decay.
   * --ratio: label ratio.
   * --num_epoch: number of training epochs.
-  * --knns: hyperparameter $\lambda$.
+  * --knns: hyperparameter of the number of neighbors $k$.
   * --theta: Initialize the  learnable parameter $\theta_1$ and $\theta_2$.
 
 All the configs are set as default, so you only need to set dataset.
