@@ -40,3 +40,15 @@ For example:
  python train_and_test.py --dataset HW
  ```
 
+## Reference
+```
+@ARTICLE{10462517,
+  author={Lu, Jielong and Wu, Zhihao and Zhong, Luying and Chen, Zhaoliang and Zhao, Hong and Wang, Shiping},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Generative Essential Graph Convolutional Network for Multi-View Semi-Supervised Classification}, 
+  year={2024},
+  volume={26},
+  number={},
+  pages={7987-7999},
+  doi={10.1109/TMM.2024.3374579}}
+```
