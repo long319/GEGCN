@@ -1,7 +1,7 @@
 # Generative Essential Graph Convolutional Network for Multi-view Semi-supervised Classification
 
 ====
-This is the Pytorch implementation of IMvGCN proposed in our paper:
+This is the Pytorch implementation of GEGCN proposed in our paper:
 ![framework](./framework.jpg)
 
 ## Requirement
@@ -37,6 +37,6 @@ All the configs are set as default, so you only need to set dataset.
 For example:
 
  ```
- python train.py --dataset HW
+ python train_and_test.py --dataset HW
  ```
 
